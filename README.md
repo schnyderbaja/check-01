@@ -1,2 +1,4 @@
 # check-01
-Chek local 01
+Check local 01
+
+initial spelling test 
